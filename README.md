@@ -3,8 +3,8 @@
 A deployed dashboard that aggregates news, shows a global event map, and generates an AI intelligence brief through a backend-connected Ollama model.
 
 ## Live URLs
-- App: `http://<SERVER_IP_OR_DOMAIN>`
-- API: `http://<SERVER_IP_OR_DOMAIN>/api`
+- App: `http://localhost:4200`
+- API: `http://localhost/5087/api`
 - LLM Host (internal): `http://127.0.0.1:11434`
 
 ## Reviewer
